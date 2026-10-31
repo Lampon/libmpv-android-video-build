@@ -125,6 +125,8 @@ cpuflags=
 	--enable-decoder=pcm* \
 	--enable-decoder=dsd* \
 	--enable-decoder=dca \
+	--enable-decoder=truehd \
+	--enable-decoder=mlp \
 	\
 	--enable-decoder=ssa \
 	--enable-decoder=ass \
